@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <root-path name="download" path="" />
+        <external-files-path name="lifesmart" path="." />
+    </paths>
+</resources>
